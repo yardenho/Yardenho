@@ -6,7 +6,7 @@ I`m Yarden Hovav, a junior Software Engineer .
   
   💻 Blockchain Car Sharing Platform : This is my final project. A blockchain based car sharing web app that allows car companies and individuals to rent out their car for a certain period. Includes Solidity based smart contracts, Geth and MetaMask.
 
-  💻 Social media android web : Social media project with posts uploading and chat. Using Rest API and Socket.io. The frontend developed in Type script and React Native, the backend is in Node.js and uses MongoDB.
+  💻 Social media android app : Social media project with posts uploading and chat. Using Rest API and Socket.io. The frontend developed in Type script and React Native, the backend is in Node.js and uses MongoDB.
 
   💻 Virus spread monitoring system : I’ve developed a simulation of a virus spreading in a population. The simulation is a multithreaded Java program, based on OOP and design patterns such as Proxy, Observer, etc.
 
