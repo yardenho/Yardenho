@@ -7,7 +7,7 @@ I`m Yarden Hovav, a junior Software Engineer .
 - 📫 How to reach me: Yardenhovavv@gmail.com
 
   My Projects:
-  - Final Project : 
+  💻 Final Project : 
 
 
 
