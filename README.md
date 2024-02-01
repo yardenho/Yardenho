@@ -7,10 +7,7 @@ I`m Yarden Hovav, a junior Software Engineer .
 - 📫 How to reach me: Yardenhovavv@gmail.com
 
   My Projects:
-  - Final Project : A blockchain based car sharing web app that allows car companies and individuals to rent out their car for a certain 
-    period.
-    Includes Solidity based smart contracts, Geth and MetaMask.
-  - ![image](https://github.com/yardenho/Yardenho/assets/73613642/f4377eda-f3fb-4f23-8b84-c23bcde9020e)
+  - Final Project : 
 
 
 
