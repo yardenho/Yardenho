@@ -2,10 +2,6 @@
 
 I`m Yarden Hovav, a junior Software Engineer .
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
-
-- 📫 How to reach me: Yardenhovavv@gmail.com
-
   My Projects:
   
   💻 Final Project : A blockchain based car sharing web app that allows car companies and individuals to rent out their car for a certain period. Includes Solidity based smart contracts, Geth and MetaMask.
@@ -15,7 +11,9 @@ I`m Yarden Hovav, a junior Software Engineer .
   💻  I’ve developed a simulation of a virus spreading in a population. The simulation is a multithreaded Java program, based on OOP and design patterns such as Proxy, Observer, etc.
 
 
+[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
 
+- 📫 How to reach me: Yardenhovavv@gmail.com
 
 <!--
 **yardenho/Yardenho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
