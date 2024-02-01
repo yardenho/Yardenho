@@ -1,7 +1,8 @@
 ### Hi there👋
 
 I'm Yarden Hovav, a junior Software Engineer .
-I'm high analytical abilities, self-learning ability and high work ethic. Highly motivated, responsible and has teamwork skills.
+
+High analytical abilities, self-learning ability and high work ethic. Highly motivated, responsible and has teamwork skills.
 
 <ins> My Projects:</ins>
   
